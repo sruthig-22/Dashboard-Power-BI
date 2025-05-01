@@ -1,15 +1,18 @@
-# Dashboard-Power-BI
-This Power BI dashboard provides a detailed and interactive analysis of Amazon sales data 2025, focusing on customer behavior, product performance, and transactional trends. The dashboard is designed to support data-driven decision-making in areas such as marketing, inventory management, and regional sales strategies.
-Key Visuals and Insights:
+ Amazon Sales Data Power BI Dashboard
+This Power BI project provides a dynamic and visual exploration of Amazon sales data, offering key insights into customer behavior, product performance, and sales trends across regions. The dashboard was built using real-world structured data and designed for business intelligence and decision support.
 
-Total Sales by Customer Location: A map and bar chart combination displaying sales volume and revenue contribution from various geographic regions, helping identify top-performing areas.
+Key Visuals & Insights:
+Total Sales by Customer Location
+A bar chart representing total orders from major cities such as Houston, Miami, Dallas, and more, helping identify high-performing regions.
 
-Products by Customer Location: Visualizes which products are most popular in each region, offering insights into regional preferences and potential for localized marketing.
+Products by Customer Location
+Highlights the number of unique products purchased by customers in each location.
 
-Sales Over Time by Category: A line chart illustrating daily/monthly sales trends segmented by product categories, enabling trend analysis and seasonality tracking.
+Purchase Date by Category
+Shows the distribution of orders over time across categories like Electronics, Books, Clothing, and Home Appliances.
 
-Products by Price Range: A histogram or clustered column chart categorizing products based on price brackets, assisting in pricing strategy evaluation.
+Purchase Date by Product and Price
+Analyzes popular products by their frequency and price point, identifying top-selling items such as smartphones, smartwatches, and running shoes.
 
-Order Status by Payment Method: A stacked bar chart showing the relationship between payment methods (e.g., credit card, net banking) and order statuses (e.g., completed, returned, pending), useful for assessing payment reliability and customer behavior.
-
-This dashboard serves as a powerful tool for monitoring performance, spotting trends, and uncovering actionable insights from Amazon's sales data.
+Order Status by Payment Method
+Illustrates how different payment methods (Credit Card, PayPal, Amazon Pay, etc.) relate to order statuses, offering insight into transactional trends and reliability.
